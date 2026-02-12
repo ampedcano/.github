@@ -25,6 +25,9 @@ We build, invest in, and scale technology companies. Our approach combines strat
 
 - **Ventures** — Identify and back high-potential opportunities
 - **Labs** — Build products from zero to one
+- **Capital** — Strategic investment in high-growth companies
+- **Advisory** — Hands-on guidance from idea to scale
+- **Products** — From concept to market-ready
 
 <p align="center">
   <a href="https://ampedcano.com/brand/">Press Kit & Brand Assets</a>
