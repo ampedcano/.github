@@ -7,7 +7,7 @@
 <h3 align="center">Accelerating Bold Ideas</h3>
 
 <p align="center">
-  A ventures and labs company at the intersection of capital and code.
+  We invest, build, and advise.
 </p>
 
 <p align="center">
