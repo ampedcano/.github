@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h3 align="center">Powering Bold Ideas</h3>
+<h3 align="center">Accelerating Bold Ideas</h3>
 
 <p align="center">
   A ventures and labs company at the intersection of capital and code.
